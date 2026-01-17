@@ -24,7 +24,7 @@ This project analyzes sales, cost, and profitability data for DEWHITE CANDIES us
 - December is the most profitable month
 
 ## Dashboard
-🔗 View interactive dashboard: [Power BI Link]
+🔗 View interactive dashboard: 
 
 ## Recommendations
 - Scale Standard Class shipping
