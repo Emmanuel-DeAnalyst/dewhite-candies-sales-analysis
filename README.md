@@ -24,7 +24,7 @@ This project analyzes sales, cost, and profitability data for DEWHITE CANDIES us
 - December is the most profitable month
 
 ## Dashboard
-🔗 View interactive dashboard: 
+🔗 View interactive dashboard: https://github.com/Emmanuel-DeAnalyst/dewhite-candies-sales-analysis/blob/main/Capstone%20PBI.pbix
 
 ## Recommendations
 - Scale Standard Class shipping
